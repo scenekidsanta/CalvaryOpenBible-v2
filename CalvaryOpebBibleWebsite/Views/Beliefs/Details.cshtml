@@ -1,0 +1,37 @@
+﻿@model CalvaryOpebBibleWebsite.Models.Belief
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+}
+<div class="jumbotron">
+    <h2>Details</h2>
+
+    <div>
+        <h4>Belief</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.BeliefTitle)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.BeliefTitle)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.BeliefDetails)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.BeliefDetails)
+            </dd>
+
+        </dl>
+    </div>
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.BeliefID }) |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+</div>

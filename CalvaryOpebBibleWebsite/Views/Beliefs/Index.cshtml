@@ -1,0 +1,43 @@
+﻿@model IEnumerable<CalvaryOpebBibleWebsite.Models.Belief>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+}
+<div class="jumbotron">
+    <h2>Beliefs</h2>
+
+    <p>
+        @Html.ActionLink("Create New", "Create")
+    </p>
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.BeliefTitle)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BeliefDetails)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.BeliefTitle)
+                </td>
+                <td width="60%">
+                    @Html.DisplayFor(modelItem => item.BeliefDetails)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.BeliefID }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.BeliefID }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.BeliefID })
+                </td>
+            </tr>
+        }
+
+    </table>
+</div>
