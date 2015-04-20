@@ -18,7 +18,7 @@ namespace CalvaryOpebBibleWebsite.DAL
             public DbSet<Calendar> Calendar { get; set; }
             public DbSet<Event> Event { get; set; }
             public DbSet<Pastor> Pastor { get; set; }
-            public DbSet<Photo> Photo { get; set; }
+            public DbSet<Image> Image { get; set; }
     
     
     

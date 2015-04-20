@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.30723.0
+VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalvaryOpebBibleWebsite", "CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite.csproj", "{548D63E3-572A-464D-927F-D7805BA831A6}"
 EndProject
@@ -9,6 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalvaryOpebBibleWebsite.Tes
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{69776EF0-65E3-4FF4-962B-86D980077307}"
 	ProjectSection(SolutionItems) = preProject
+		CalvaryOpebBibleWebsite\Views\ImagesController.cs = CalvaryOpebBibleWebsite\Views\ImagesController.cs
 		.nuget\packages.config = .nuget\packages.config
 	EndProjectSection
 EndProject
