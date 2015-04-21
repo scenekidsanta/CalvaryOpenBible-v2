@@ -1,0 +1,28 @@
+﻿@model CalvaryOpebBibleWebsite.Models.Image
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="jumbotron">
+    <h2>Details</h2>
+
+    <div>
+        <h4>Image</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.ImagePath)
+            </dt>
+
+            <dd>
+                <img style="max-height:400px; max-width:400px" src="@Url.Content("~/Content/Images/" + System.IO.Path.GetFileName(Model.ImagePath))" a />
+            </dd>
+
+        </dl>
+    </div>
+    <p>
+       
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+</div>
