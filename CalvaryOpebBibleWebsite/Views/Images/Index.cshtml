@@ -22,7 +22,7 @@
         {
             <tr>
                 <td>
-                    <img style="max-height:400px; max-width:400px" src="@Url.Content("~/Content/Images/" + System.IO.Path.GetFileName(item.ImagePath))" a />
+                    <img style="max-height:400px; max-width:400px" src="@Url.Content("~/Content/Images/" + System.IO.Path.GetFileName(item.ImagePath))"  />
                 </td>
                 <td>
                     @Html.ActionLink("Details", "Details", new { id = item.ID }) |

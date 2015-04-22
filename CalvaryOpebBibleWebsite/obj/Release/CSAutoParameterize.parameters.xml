@@ -1,9 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <parameters>
   <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Connection String used in web.config by the application to access the database." defaultValue="Data Source=(LocalDb)\v11.0;AttachDbFilename=|DataDirectory|\aspnet-CalvaryOpebBibleWebsite-20150401023213.mdf;Initial Catalog=aspnet-CalvaryOpebBibleWebsite-20150401023213;Integrated Security=True" tags="SqlConnectionString">
-    <parameterEntry kind="XmlFile" scope="C:\\Users\\Thomas\\Desktop\\CalvaryOpenBible-v2\\CalvaryOpebBibleWebsite\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\nwtech\\Documents\\GitHub\\CalvaryOpenBible-v2\\CalvaryOpenBible-v2\\CalvaryOpebBibleWebsite\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
   </parameter>
   <parameter name="CalvaryContext-Web.config Connection String" description="CalvaryContext Connection String used in web.config by the application to access the database." defaultValue="Data Source=(LocalDB)\v11.0;AttachDbFilename=|DataDirectory|\CalvaryOpebBibleWebsite.mdf;Integrated Security=True" tags="SqlConnectionString">
-    <parameterEntry kind="XmlFile" scope="C:\\Users\\Thomas\\Desktop\\CalvaryOpenBible-v2\\CalvaryOpebBibleWebsite\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='CalvaryContext']/@connectionString" />
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\nwtech\\Documents\\GitHub\\CalvaryOpenBible-v2\\CalvaryOpenBible-v2\\CalvaryOpebBibleWebsite\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='CalvaryContext']/@connectionString" />
+  </parameter>
+  <parameter name="CalvaryContext_DatabasePublish-Web.config Connection String" description="CalvaryContext_DatabasePublish Connection String used in web.config by the application to access the database." defaultValue="CalvaryContext_DatabasePublish.ConnetionString" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\nwtech\\Documents\\GitHub\\CalvaryOpenBible-v2\\CalvaryOpenBible-v2\\CalvaryOpebBibleWebsite\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='CalvaryContext_DatabasePublish']/@connectionString" />
   </parameter>
 </parameters>

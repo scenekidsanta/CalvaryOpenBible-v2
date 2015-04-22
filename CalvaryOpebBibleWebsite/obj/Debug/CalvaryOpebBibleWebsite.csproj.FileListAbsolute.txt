@@ -1,388 +1,78 @@
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\ApplicationInsights.config
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\Microsoft.ApplicationInsights.Extensions.Intercept_x86.dll
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\Microsoft.ApplicationInsights.Extensions.Intercept_x64.dll
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\CalvaryOpebBibleWebsite.dll.config
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\CalvaryOpebBibleWebsite.dll
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\CalvaryOpebBibleWebsite.pdb
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\Antlr3.Runtime.dll
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\EntityFramework.dll
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\EntityFramework.SqlServer.dll
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\Microsoft.ApplicationInsights.dll
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\Microsoft.ApplicationInsights.Extensibility.PerfCollector.dll
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\Microsoft.ApplicationInsights.Extensibility.RuntimeTelemetry.dll
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\Microsoft.ApplicationInsights.Extensibility.Web.dll
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\Microsoft.AspNet.Identity.Core.dll
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\Microsoft.AspNet.Identity.Owin.dll
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\Microsoft.Diagnostics.Instrumentation.Extensions.Intercept.dll
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\Microsoft.Diagnostics.Tracing.EventSource.dll
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.dll
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Host.SystemWeb.dll
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.Cookies.dll
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.dll
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.Facebook.dll
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.Google.dll
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.OAuth.dll
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.Twitter.dll
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\Microsoft.Threading.Tasks.dll
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\Microsoft.Threading.Tasks.Extensions.dll
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\Microsoft.Web.Infrastructure.dll
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\Newtonsoft.Json.dll
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\Owin.dll
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\System.Web.Helpers.dll
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\System.Web.Mvc.dll
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\System.Web.Optimization.dll
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\System.Web.Razor.dll
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\System.Web.WebPages.Deployment.dll
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\System.Web.WebPages.dll
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\System.Web.WebPages.Razor.dll
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\WebGrease.dll
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\Microsoft.ApplicationInsights.xml
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\Microsoft.ApplicationInsights.Extensibility.RuntimeTelemetry.pdb
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\Microsoft.ApplicationInsights.Extensibility.RuntimeTelemetry.xml
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\Microsoft.ApplicationInsights.Extensibility.Web.pdb
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\Microsoft.ApplicationInsights.Extensibility.Web.xml
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\Microsoft.Diagnostics.Tracing.EventSource.xml
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\Microsoft.Threading.Tasks.xml
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\Microsoft.Threading.Tasks.Extensions.xml
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\System.Web.Helpers.xml
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\System.Web.Mvc.xml
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\System.Web.Optimization.xml
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\System.Web.Razor.xml
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\System.Web.WebPages.xml
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\System.Web.WebPages.Deployment.xml
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\System.Web.WebPages.Razor.xml
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\Antlr3.Runtime.pdb
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\Newtonsoft.Json.xml
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\EntityFramework.xml
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\EntityFramework.SqlServer.xml
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\Microsoft.AspNet.Identity.Core.xml
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\Microsoft.AspNet.Identity.Owin.xml
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.xml
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Host.SystemWeb.xml
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.xml
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.Facebook.xml
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.Cookies.xml
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.OAuth.xml
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.Google.xml
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.Twitter.xml
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\obj\Debug\CalvaryOpebBibleWebsite.csprojResolveAssemblyReference.cache
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\obj\Debug\ApplicationInsights.config
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\obj\Debug\CalvaryOpebBibleWebsite.dll
-c:\users\nwtech\documents\visual studio 2013\Projects\CalvaryOpebBibleWebsite\CalvaryOpebBibleWebsite\obj\Debug\CalvaryOpebBibleWebsite.pdb
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\ApplicationInsights.config
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.ApplicationInsights.Extensions.Intercept_x86.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.ApplicationInsights.Extensions.Intercept_x64.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\CalvaryOpebBibleWebsite.dll.config
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\CalvaryOpebBibleWebsite.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\CalvaryOpebBibleWebsite.pdb
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Antlr3.Runtime.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\EntityFramework.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\EntityFramework.SqlServer.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.ApplicationInsights.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.ApplicationInsights.Extensibility.PerfCollector.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.ApplicationInsights.Extensibility.RuntimeTelemetry.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.ApplicationInsights.Extensibility.Web.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.AspNet.Identity.Core.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.AspNet.Identity.Owin.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.Diagnostics.Instrumentation.Extensions.Intercept.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.Diagnostics.Tracing.EventSource.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Host.SystemWeb.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.Cookies.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.Facebook.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.Google.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.OAuth.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.Twitter.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.Threading.Tasks.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.Threading.Tasks.Extensions.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Newtonsoft.Json.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Owin.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\System.Web.Helpers.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\System.Web.Mvc.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\System.Web.Optimization.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\System.Web.Razor.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\System.Web.WebPages.Deployment.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\System.Web.WebPages.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\System.Web.WebPages.Razor.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\WebGrease.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.ApplicationInsights.xml
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.ApplicationInsights.Extensibility.RuntimeTelemetry.pdb
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.ApplicationInsights.Extensibility.RuntimeTelemetry.xml
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.ApplicationInsights.Extensibility.Web.pdb
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.ApplicationInsights.Extensibility.Web.xml
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.Diagnostics.Tracing.EventSource.xml
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.Threading.Tasks.xml
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.Threading.Tasks.Extensions.xml
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\System.Web.Helpers.xml
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\System.Web.Mvc.xml
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\System.Web.Optimization.xml
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\System.Web.Razor.xml
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\System.Web.WebPages.xml
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\System.Web.WebPages.Deployment.xml
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\System.Web.WebPages.Razor.xml
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Antlr3.Runtime.pdb
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Newtonsoft.Json.xml
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\EntityFramework.xml
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\EntityFramework.SqlServer.xml
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.AspNet.Identity.Core.xml
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.AspNet.Identity.Owin.xml
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.xml
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Host.SystemWeb.xml
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.xml
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.Facebook.xml
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.Cookies.xml
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.OAuth.xml
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.Google.xml
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.Twitter.xml
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\obj\Debug\CalvaryOpebBibleWebsite.csprojResolveAssemblyReference.cache
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\obj\Debug\ApplicationInsights.config
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\obj\Debug\CalvaryOpebBibleWebsite.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\obj\Debug\CalvaryOpebBibleWebsite.pdb
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\ApplicationInsights.config
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.ApplicationInsights.Extensions.Intercept_x86.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.ApplicationInsights.Extensions.Intercept_x64.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\CalvaryOpebBibleWebsite.dll.config
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\CalvaryOpebBibleWebsite.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\CalvaryOpebBibleWebsite.pdb
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Antlr3.Runtime.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\EntityFramework.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\EntityFramework.SqlServer.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.ApplicationInsights.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.ApplicationInsights.Extensibility.PerfCollector.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.ApplicationInsights.Extensibility.RuntimeTelemetry.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.ApplicationInsights.Extensibility.Web.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.AspNet.Identity.Core.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.AspNet.Identity.Owin.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.Diagnostics.Instrumentation.Extensions.Intercept.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.Diagnostics.Tracing.EventSource.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Host.SystemWeb.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.Cookies.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.Facebook.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.Google.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.OAuth.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.Twitter.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.Threading.Tasks.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.Threading.Tasks.Extensions.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Newtonsoft.Json.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Owin.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\System.Web.Helpers.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\System.Web.Mvc.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\System.Web.Optimization.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\System.Web.Razor.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\System.Web.WebPages.Deployment.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\System.Web.WebPages.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\System.Web.WebPages.Razor.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\WebGrease.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.ApplicationInsights.xml
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.ApplicationInsights.Extensibility.RuntimeTelemetry.pdb
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.ApplicationInsights.Extensibility.RuntimeTelemetry.xml
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.ApplicationInsights.Extensibility.Web.pdb
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.ApplicationInsights.Extensibility.Web.xml
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.Diagnostics.Tracing.EventSource.xml
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.Threading.Tasks.xml
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.Threading.Tasks.Extensions.xml
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\System.Web.Helpers.xml
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\System.Web.Mvc.xml
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\System.Web.Optimization.xml
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\System.Web.Razor.xml
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\System.Web.WebPages.xml
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\System.Web.WebPages.Deployment.xml
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\System.Web.WebPages.Razor.xml
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Antlr3.Runtime.pdb
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Newtonsoft.Json.xml
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\EntityFramework.xml
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\EntityFramework.SqlServer.xml
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.AspNet.Identity.Core.xml
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.AspNet.Identity.Owin.xml
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.xml
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Host.SystemWeb.xml
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.xml
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.Facebook.xml
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.Cookies.xml
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.OAuth.xml
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.Google.xml
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.Twitter.xml
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\obj\Debug\CalvaryOpebBibleWebsite.csprojResolveAssemblyReference.cache
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\obj\Debug\ApplicationInsights.config
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\obj\Debug\CalvaryOpebBibleWebsite.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible\CalvaryOpebBibleWebsite\obj\Debug\CalvaryOpebBibleWebsite.pdb
-<<<<<<< HEAD
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\ApplicationInsights.config
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.ApplicationInsights.Extensions.Intercept_x86.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.ApplicationInsights.Extensions.Intercept_x64.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\CalvaryOpebBibleWebsite.dll.config
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\CalvaryOpebBibleWebsite.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\CalvaryOpebBibleWebsite.pdb
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Antlr3.Runtime.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\EntityFramework.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\EntityFramework.SqlServer.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.ApplicationInsights.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.ApplicationInsights.Extensibility.PerfCollector.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.ApplicationInsights.Extensibility.RuntimeTelemetry.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.ApplicationInsights.Extensibility.Web.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.AspNet.Identity.Core.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.AspNet.Identity.Owin.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Diagnostics.Instrumentation.Extensions.Intercept.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Diagnostics.Tracing.EventSource.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Host.SystemWeb.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.Cookies.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.Facebook.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.Google.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.OAuth.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.Twitter.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Threading.Tasks.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Threading.Tasks.Extensions.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Newtonsoft.Json.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Owin.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\System.Web.Helpers.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\System.Web.Mvc.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\System.Web.Optimization.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\System.Web.Razor.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\System.Web.WebPages.Deployment.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\System.Web.WebPages.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\System.Web.WebPages.Razor.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\WebGrease.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\EntityFramework.xml
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\EntityFramework.SqlServer.xml
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.ApplicationInsights.xml
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.ApplicationInsights.Extensibility.RuntimeTelemetry.pdb
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.ApplicationInsights.Extensibility.RuntimeTelemetry.xml
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.ApplicationInsights.Extensibility.Web.pdb
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.ApplicationInsights.Extensibility.Web.xml
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Diagnostics.Tracing.EventSource.xml
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Threading.Tasks.xml
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Threading.Tasks.Extensions.xml
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\System.Web.Helpers.xml
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\System.Web.Mvc.xml
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\System.Web.Optimization.xml
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\System.Web.Razor.xml
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\System.Web.WebPages.xml
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\System.Web.WebPages.Deployment.xml
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\System.Web.WebPages.Razor.xml
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Antlr3.Runtime.pdb
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Newtonsoft.Json.xml
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.AspNet.Identity.Core.xml
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.AspNet.Identity.Owin.xml
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.xml
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Host.SystemWeb.xml
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.xml
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.Facebook.xml
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.Cookies.xml
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.OAuth.xml
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.Google.xml
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.Twitter.xml
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\obj\Debug\ApplicationInsights.config
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\obj\Debug\CalvaryOpebBibleWebsite.dll
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\obj\Debug\CalvaryOpebBibleWebsite.pdb
-C:\Users\jpoet_000\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\obj\Debug\CalvaryOpebBibleWebsite.csprojResolveAssemblyReference.cache
-=======
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\ApplicationInsights.config
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.ApplicationInsights.Extensions.Intercept_x86.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.ApplicationInsights.Extensions.Intercept_x64.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\CalvaryOpebBibleWebsite.dll.config
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\CalvaryOpebBibleWebsite.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\CalvaryOpebBibleWebsite.pdb
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Antlr3.Runtime.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\EntityFramework.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\EntityFramework.SqlServer.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.ApplicationInsights.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.ApplicationInsights.Extensibility.PerfCollector.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.ApplicationInsights.Extensibility.RuntimeTelemetry.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.ApplicationInsights.Extensibility.Web.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.AspNet.Identity.Core.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.AspNet.Identity.Owin.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Diagnostics.Instrumentation.Extensions.Intercept.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Diagnostics.Tracing.EventSource.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Host.SystemWeb.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.Cookies.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.Facebook.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.Google.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.OAuth.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.Twitter.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Threading.Tasks.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Threading.Tasks.Extensions.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Newtonsoft.Json.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Owin.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\System.Web.Helpers.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\System.Web.Mvc.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\System.Web.Optimization.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\System.Web.Razor.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\System.Web.WebPages.Deployment.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\System.Web.WebPages.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\System.Web.WebPages.Razor.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\WebGrease.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\EntityFramework.xml
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\EntityFramework.SqlServer.xml
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.ApplicationInsights.xml
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.ApplicationInsights.Extensibility.RuntimeTelemetry.pdb
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.ApplicationInsights.Extensibility.RuntimeTelemetry.xml
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.ApplicationInsights.Extensibility.Web.pdb
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.ApplicationInsights.Extensibility.Web.xml
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Diagnostics.Tracing.EventSource.xml
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Threading.Tasks.xml
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Threading.Tasks.Extensions.xml
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\System.Web.Helpers.xml
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\System.Web.Mvc.xml
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\System.Web.Optimization.xml
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\System.Web.Razor.xml
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\System.Web.WebPages.xml
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\System.Web.WebPages.Deployment.xml
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\System.Web.WebPages.Razor.xml
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Antlr3.Runtime.pdb
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Newtonsoft.Json.xml
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.AspNet.Identity.Core.xml
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.AspNet.Identity.Owin.xml
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.xml
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Host.SystemWeb.xml
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.xml
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.Facebook.xml
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.Cookies.xml
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.OAuth.xml
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.Google.xml
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.Twitter.xml
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\obj\Debug\CalvaryOpebBibleWebsite.csprojResolveAssemblyReference.cache
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\obj\Debug\ApplicationInsights.config
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\obj\Debug\CalvaryOpebBibleWebsite.dll
-C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\obj\Debug\CalvaryOpebBibleWebsite.pdb
->>>>>>> origin/master
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\ApplicationInsights.config
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.ApplicationInsights.Extensions.Intercept_x86.dll
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.ApplicationInsights.Extensions.Intercept_x64.dll
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\CalvaryOpebBibleWebsite.dll.config
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\CalvaryOpebBibleWebsite.dll
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\CalvaryOpebBibleWebsite.pdb
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Antlr3.Runtime.dll
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\EntityFramework.dll
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\EntityFramework.SqlServer.dll
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.ApplicationInsights.dll
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.ApplicationInsights.Extensibility.PerfCollector.dll
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.ApplicationInsights.Extensibility.RuntimeTelemetry.dll
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.ApplicationInsights.Extensibility.Web.dll
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Diagnostics.Instrumentation.Extensions.Intercept.dll
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.dll
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.dll
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Threading.Tasks.dll
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Newtonsoft.Json.dll
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Owin.dll
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\System.Web.Helpers.dll
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\System.Web.Mvc.dll
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\System.Web.Optimization.dll
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\System.Web.Razor.dll
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\System.Web.WebPages.dll
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\System.Web.WebPages.Razor.dll
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\WebGrease.dll
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\EntityFramework.xml
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\EntityFramework.SqlServer.xml
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.ApplicationInsights.xml
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.ApplicationInsights.Extensibility.RuntimeTelemetry.pdb
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.ApplicationInsights.Extensibility.RuntimeTelemetry.xml
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.ApplicationInsights.Extensibility.Web.pdb
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.ApplicationInsights.Extensibility.Web.xml
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Threading.Tasks.xml
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\System.Web.Helpers.xml
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\System.Web.Mvc.xml
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\System.Web.Optimization.xml
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\System.Web.Razor.xml
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\System.Web.WebPages.xml
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\System.Web.WebPages.Razor.xml
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Antlr3.Runtime.pdb
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Newtonsoft.Json.xml
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.xml
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.xml
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\obj\Debug\ApplicationInsights.config
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\obj\Debug\CalvaryOpebBibleWebsite.dll
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\obj\Debug\CalvaryOpebBibleWebsite.pdb
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\obj\Debug\CalvaryOpebBibleWebsite.Migrations.InitialCreate.resources
+C:\Users\nwtech\Documents\GitHub\CalvaryOpenBible-v2\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite\obj\Debug\CalvaryOpebBibleWebsite.csproj.GenerateResource.Cache
