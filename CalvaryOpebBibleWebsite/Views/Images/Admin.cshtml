@@ -1,0 +1,28 @@
+﻿@model IEnumerable<CalvaryOpebBibleWebsite.Models.Image>
+
+@{
+    ViewBag.Title = "Photo Admin";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="jumbotron">
+    <h2>Photo Admin</h2>
+
+    <p>
+        @Html.ActionLink("Create New", "Create")
+    </p>
+    <table class="table">
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    <img style="max-height:400px; max-width:400px" src="@Url.Content("~/Content/Images/" + System.IO.Path.GetFileName(item.ImagePath))"  />
+                </td>
+                <td>
+                    @Html.ActionLink("Delete", "Delete", new { id = item.ID })
+                </td>
+            </tr>
+        }
+
+    </table>
+</div>

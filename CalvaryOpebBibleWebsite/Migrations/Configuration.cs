@@ -9,7 +9,7 @@ namespace CalvaryOpebBibleWebsite.Migrations
     {
         public Configuration()
         {
-            AutomaticMigrationsEnabled = false;
+            AutomaticMigrationsEnabled = true;
             ContextKey = "CalvaryOpebBibleWebsite.DAL.CalvaryContext";
         }
 

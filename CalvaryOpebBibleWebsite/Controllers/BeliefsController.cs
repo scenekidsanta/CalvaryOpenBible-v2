@@ -21,6 +21,10 @@ namespace CalvaryOpebBibleWebsite.Views
             return View(db.Belief.ToList());
         }
 
+        public ActionResult Admin()
+        {
+            return View(db.Belief.ToList());
+        }
         // GET: Beliefs/Details/5
         public ActionResult Details(int? id)
         {
@@ -53,7 +57,7 @@ namespace CalvaryOpebBibleWebsite.Views
             {
                 db.Belief.Add(belief);
                 db.SaveChanges();
-                return RedirectToAction("Index");
+                return RedirectToAction("Admin");
             }
 
             return View(belief);
@@ -85,7 +89,7 @@ namespace CalvaryOpebBibleWebsite.Views
             {
                 db.Entry(belief).State = EntityState.Modified;
                 db.SaveChanges();
-                return RedirectToAction("Index");
+                return RedirectToAction("Admin");
             }
             return View(belief);
         }
@@ -113,7 +117,7 @@ namespace CalvaryOpebBibleWebsite.Views
             Belief belief = db.Belief.Find(id);
             db.Belief.Remove(belief);
             db.SaveChanges();
-            return RedirectToAction("Index");
+            return RedirectToAction("Admin");
         }
 
         protected override void Dispose(bool disposing)

@@ -23,9 +23,12 @@ namespace CalvaryOpebBibleWebsite.Views
         {
             return View(db.Image.ToList());
         }
-
+        public ActionResult Admin()
+        {
+            return View(db.Image.ToList());
+        }
         // GET: Images/Details/5
-        public ActionResult Details(int? id)
+        public ActionResult ViewImage(int? id)
         {
             if (id == null)
             {
@@ -58,7 +61,7 @@ namespace CalvaryOpebBibleWebsite.Views
                 }
                 db.Image.Add(img);
                 db.SaveChanges();
-                return RedirectToAction("Index");
+                return RedirectToAction("Admin");
             }
             return View(img);
         }
@@ -88,7 +91,7 @@ namespace CalvaryOpebBibleWebsite.Views
             {
                 db.Entry(image).State = EntityState.Modified;
                 db.SaveChanges();
-              return RedirectToAction("Index");
+              return RedirectToAction("Admin");
             }
             return View(image);
         }
@@ -116,7 +119,7 @@ namespace CalvaryOpebBibleWebsite.Views
             Image image = db.Image.Find(id);
             db.Image.Remove(image);
             db.SaveChanges();
-            return RedirectToAction("Index");
+            return RedirectToAction("Admin");
         }
 
         protected override void Dispose(bool disposing)

@@ -21,6 +21,11 @@ namespace CalvaryOpebBibleWebsite.Views
             return View(db.Pastor.ToList());
         }
 
+        public ActionResult Admin()
+        {
+            return View(db.Pastor.ToList());
+        }
+
         // GET: Pastors/Details/5
         public ActionResult Details(int? id)
         {
@@ -41,22 +46,27 @@ namespace CalvaryOpebBibleWebsite.Views
         {
             return View();
         }
-
         // POST: Pastors/Create
         // To protect from overposting attacks, please enable the specific properties you want to bind to, for 
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create([Bind(Include = "PastorID,PastorName,Title,Details")] Pastor pastor)
+        public ActionResult Create([Bind(Include = "PastorID,PastorName,Title, PastorImagePath,Details")] Pastor pastor, HttpPostedFileBase file)
         {
-            if (ModelState.IsValid)
-            {
+            
+                  if (file != null)
+                {
+                    file.SaveAs(HttpContext.Server.MapPath("~/Content/Images/")
+                                                          + file.FileName);
+                    pastor.PastorImagePath = file.FileName;
+                }
+             
                 db.Pastor.Add(pastor);
                 db.SaveChanges();
-                return RedirectToAction("Index");
-            }
+                return RedirectToAction("Admin");
+            
 
-            return View(pastor);
+           // return View(pastor);
         }
 
         // GET: Pastors/Edit/5
@@ -79,15 +89,19 @@ namespace CalvaryOpebBibleWebsite.Views
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit([Bind(Include = "PastorID,PastorName,Title,Details")] Pastor pastor)
+        public ActionResult Edit([Bind(Include = "PastorID,PastorName,PastorImagePath,Title,Details")] Pastor pastor, HttpPostedFileBase file)
         {
-            if (ModelState.IsValid)
-            {
+            
+                if (file != null)
+                {
+                    file.SaveAs(HttpContext.Server.MapPath("~/Content/Images/")
+                                                          + file.FileName);
+                    pastor.PastorImagePath = file.FileName;
+                }
                 db.Entry(pastor).State = EntityState.Modified;
                 db.SaveChanges();
-                return RedirectToAction("Index");
-            }
-            return View(pastor);
+                return RedirectToAction("Admin");
+            
         }
 
         // GET: Pastors/Delete/5
@@ -113,7 +127,7 @@ namespace CalvaryOpebBibleWebsite.Views
             Pastor pastor = db.Pastor.Find(id);
             db.Pastor.Remove(pastor);
             db.SaveChanges();
-            return RedirectToAction("Index");
+            return RedirectToAction("Admin");
         }
 
         protected override void Dispose(bool disposing)

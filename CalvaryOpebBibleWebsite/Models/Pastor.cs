@@ -15,7 +15,8 @@ namespace CalvaryOpebBibleWebsite.Models
 
         [Required]
         public string PastorName { get; set; }
-
+        [Required]
+        public string PastorImagePath { get; set; }
         [Required]
         public string Title { get; set; }
 

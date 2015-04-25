@@ -27,7 +27,16 @@
             <dd>
                 @Html.DisplayFor(model => model.Title)
             </dd>
+           
+                <dt>
+                    @Html.DisplayNameFor(model => model.PastorImagePath)
+                </dt>
 
+                <dd>
+                    <img style="max-height:400px; max-width:400px" src="@Url.Content("~/Content/Images/" + System.IO.Path.GetFileName(Model.PastorImagePath))"  />
+                </dd>
+
+           
             <dt>
                 @Html.DisplayNameFor(model => model.Details)
             </dt>

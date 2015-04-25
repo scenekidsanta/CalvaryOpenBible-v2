@@ -198,10 +198,6 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\201504201852023_InitialCreate.cs" />
-    <Compile Include="Migrations\201504201852023_InitialCreate.Designer.cs">
-      <DependentUpon>201504201852023_InitialCreate.cs</DependentUpon>
-    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\Belief.cs" />
@@ -304,10 +300,13 @@
     <Content Include="Views\Beliefs\Edit.cshtml" />
     <Content Include="Views\Beliefs\Index.cshtml" />
     <Content Include="Views\Images\Create.cshtml" />
-    <Content Include="Views\Images\Delete.cshtml" />
-    <Content Include="Views\Images\Details.cshtml" />
+    <Content Include="Views\Images\ViewImage.cshtml" />
     <Content Include="Views\Images\Index.cshtml" />
     <Content Include="Views\Shared\_Layoutnav.cshtml" />
+    <Content Include="Views\Images\Admin.cshtml" />
+    <Content Include="Views\Beliefs\Admin.cshtml" />
+    <Content Include="Views\Images\Delete.cshtml" />
+    <None Include="Views\Pastors\Admin.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -318,11 +317,6 @@
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
     <Content Include="packages.config" />
     <None Include="Project_Readme.html" />
-  </ItemGroup>
-  <ItemGroup>
-    <EmbeddedResource Include="Migrations\201504201852023_InitialCreate.resx">
-      <DependentUpon>201504201852023_InitialCreate.cs</DependentUpon>
-    </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
