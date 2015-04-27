@@ -124,5 +124,11 @@ namespace CalvaryOpebBibleWebsite.Controllers
             }
             base.Dispose(disposing);
         }
+
+        public ActionResult Calendar ()
+        {
+            return View(db.Event.ToList());
+        }
     }
+
 }

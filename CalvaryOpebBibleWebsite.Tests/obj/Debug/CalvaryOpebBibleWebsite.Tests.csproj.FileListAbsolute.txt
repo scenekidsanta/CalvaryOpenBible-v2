@@ -194,3 +194,9 @@ C:\Users\Thomas\Desktop\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite.Tests\bin\De
 C:\Users\Thomas\Desktop\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite.Tests\obj\Debug\CalvaryOpebBibleWebsite.Tests.csprojResolveAssemblyReference.cache
 C:\Users\Thomas\Desktop\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite.Tests\obj\Debug\CalvaryOpebBibleWebsite.Tests.dll
 C:\Users\Thomas\Desktop\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite.Tests\obj\Debug\CalvaryOpebBibleWebsite.Tests.pdb
+C:\Users\Thomas\Desktop\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite.Tests\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Thomas\Desktop\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite.Tests\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Thomas\Desktop\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite.Tests\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Thomas\Desktop\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite.Tests\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Thomas\Desktop\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite.Tests\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Thomas\Desktop\CalvaryOpenBible-v2\CalvaryOpebBibleWebsite.Tests\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml

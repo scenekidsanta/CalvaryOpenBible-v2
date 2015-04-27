@@ -196,6 +196,7 @@
     <Compile Include="Controllers\ImagesController.cs" />
     <Compile Include="Controllers\ManageController.cs" />
     <Compile Include="DAL\CalvaryContext.cs" />
+    <Compile Include="DAL\CalvaryInitializer.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -221,6 +222,7 @@
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\Calvary Background.jpg" />
     <Content Include="Content\Calvary_00 %281%29.jpg" />
+    <Content Include="Content\CustomCSS\CalendarStyles.css" />
     <Content Include="Content\CustomCSS\Navbar.css" />
     <Content Include="Content\Images\00001.jpg" />
     <Content Include="Content\Images\0001_2631.jpg" />
@@ -312,6 +314,7 @@
     <Content Include="Views\Event\Details.cshtml" />
     <Content Include="Views\Event\Edit.cshtml" />
     <Content Include="Views\Event\Index.cshtml" />
+    <Content Include="Views\Event\Calendar.cshtml" />
     <None Include="Views\Pastors\Admin.cshtml" />
   </ItemGroup>
   <ItemGroup>

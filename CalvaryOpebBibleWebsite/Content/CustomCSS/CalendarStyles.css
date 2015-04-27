@@ -1,0 +1,9 @@
+﻿div {
+    background: white;
+}
+
+th, tr, td {
+    border-style: solid;
+    border-collapse: collapse;
+    border-width: 2px;
+}
