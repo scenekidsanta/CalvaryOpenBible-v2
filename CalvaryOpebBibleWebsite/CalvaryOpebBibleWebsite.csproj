@@ -291,7 +291,6 @@
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
     <Content Include="Views\Home\Ministries.cshtml" />
     <Content Include="Views\Home\Media.cshtml" />
-    <Content Include="Views\Home\Calendar.cshtml" />
     <Content Include="Views\Pastors\Create.cshtml" />
     <Content Include="Views\Pastors\Delete.cshtml" />
     <Content Include="Views\Pastors\Details.cshtml" />

@@ -7,3 +7,12 @@ th, tr, td {
     border-collapse: collapse;
     border-width: 2px;
 }
+
+td {
+    height: 25px;
+    width: 25px;
+}
+
+th {
+    text-align: center;
+}

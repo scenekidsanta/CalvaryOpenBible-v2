@@ -20,7 +20,9 @@ namespace CalvaryOpebBibleWebsite.DAL
                 new Event{EventID=5, EventCoordinator="Bob Sasslefras", EventLocation="Calvary Open Bible", EventMinistry="High School", EventName="Sunday Funday", EventTime=DateTime.Parse("2015-04-01")},
                 new Event{EventID=6, EventCoordinator="Bob Sasslefras", EventLocation="Calvary Open Bible", EventMinistry="High School", EventName="Sunday Funday", EventTime=DateTime.Parse("2015-04-01")},
                 new Event{EventID=7, EventCoordinator="Bob Sasslefras", EventLocation="Calvary Open Bible", EventMinistry="High School", EventName="Sunday Funday", EventTime=DateTime.Parse("2015-04-01")},
-                new Event{EventID=8, EventCoordinator="Bob Sasslefras", EventLocation="Calvary Open Bible", EventMinistry="High School", EventName="Sunday Funday", EventTime=DateTime.Parse("2015-04-01")}
+                new Event{EventID=8, EventCoordinator="Bob Sasslefras", EventLocation="Calvary Open Bible", EventMinistry="High School", EventName="Sunday Funday", EventTime=DateTime.Parse("2015-04-01")},
+                new Event{EventID=9, EventCoordinator="Bob Sasslefras", EventLocation="Calvary Open Bible", EventMinistry="High School", EventName="Sunday Funday", EventTime=DateTime.Parse("2015-06-01")},
+                new Event{EventID=10, EventCoordinator="Bob Sasslefras", EventLocation="Calvary Open Bible", EventMinistry="High School", EventName="Sunday Funday", EventTime=DateTime.Parse("2015-05-01")}
             };
             events.ForEach(s => context.Event.Add(s));
             context.SaveChanges();

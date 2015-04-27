@@ -36,27 +36,20 @@
                 </tr>
             </table>
         }
-
+    
     <script type="text/javascript">
     var events = [];
-    @foreach (var item in Model)
-        {
-            //if (item.EventTime) 
-            //{
-                <text>
-                    events += @item.EventID;
-                </text>
-           // }
-        }
-
-    document.write(events[0]);
+    var monthmonth;
+    var month;
+    var monthDay;
+    var day;
 
     function calendar(dateString) {
 
         // Date that the monthly calendar is based on
         if (dateString == null) calDate = new Date()
         else calDate = new Date(dateString);
-
+        month = calDate.getMonth() + 1;
         document.write("<table id='calendar_table'>");
 
         // Write the header row of the calendar table
@@ -69,8 +62,10 @@
         writeCalDays(calDate);
 
         document.write("</table>");
-    }
+        //return month;
 
+        
+    }
 
     function writeCalTitle(calendarDay) {
 
@@ -138,6 +133,38 @@
 
     }
 
+        @foreach (var item in Model)
+        {
+            <text>
+            var calDate = new Date();
+            month = calDate.getMonth() + 1;
+            monthmonth = @item.EventTime.ToString().Substring(0, 1);
+            //day = @item.EventTime.ToString().Substring(0, 2);
+            if (month == 4)
+            {
+                events += @item.EventID;
+            }
+        document.write("inside foreach month " + month + "<br />");
+        document.write("day " + day + "<br />");
+            </text>
+        }
+        document.write("monthmonth " + monthmonth + "<br />");
+        document.write("events 0: " + events[0] + "<br />");
+        document.write("events 1: " + events[1] + "<br />");
+        document.write("events 2: " + events[2] + "<br />");
+        document.write("events 3: " + events[3] + "<br />");
+        document.write("events 4: " + events[4] + "<br />");
+        document.write("events 5: " + events[5] + "<br />");
+        document.write("events 6: " + events[6] + "<br />");
+        document.write("events 7: " + events[7] + "<br />");
+
+        for (var x = 0; x < events.length; x++)
+        {
+            document.write("events loop under foreach " + x + " " + events[x] + "<br />");
+        }
+        
+        document.write("length " + events.length + "<br />");
+
     function writeCalDays(calendarDay) {
 
         // Determine the starting day of the month
@@ -184,5 +211,6 @@
 
     }
     calendar();
+    document.write("month: " + month + "<br />");
     </script>
 </div>
