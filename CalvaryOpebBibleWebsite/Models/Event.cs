@@ -30,6 +30,7 @@ namespace CalvaryOpebBibleWebsite.Models
         //[Required]
         public string EventLocation { get; set; }
 
+        [DisplayFormat(DataFormatString= "{0:MM/dd/yyyy}")]
         public DateTime EventTime { get; set; }
 
         // Thought this might be good to have, but could definitely get rid of
