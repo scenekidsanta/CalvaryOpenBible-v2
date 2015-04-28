@@ -9,7 +9,7 @@ $(document).ready(function () {
 
 $(window).scroll(function () {
     //alert("inside function");
-    if ($(this).scrollTop() > 390) {
+    if ($(this).scrollTop() > 190) {
         //alert("inside if");
         $(".main-nav").addClass("main-nav-scrolled");
         $(".main-nav").removeClass("main-nav-not-scrolled");
