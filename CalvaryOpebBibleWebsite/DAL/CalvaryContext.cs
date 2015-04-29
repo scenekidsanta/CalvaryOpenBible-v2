@@ -19,6 +19,8 @@ namespace CalvaryOpebBibleWebsite.DAL
             public DbSet<Event> Event { get; set; }
             public DbSet<Pastor> Pastor { get; set; }
             public DbSet<Image> Image { get; set; }
+            public DbSet<Ministries> Ministries { get; set; }
+            
     
     
     

@@ -194,6 +194,7 @@
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ImagesController.cs" />
     <Compile Include="Controllers\ManageController.cs" />
+    <Compile Include="Controllers\MinistriesController.cs" />
     <Compile Include="DAL\CalvaryContext.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -207,6 +208,7 @@
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Models\Image.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
+    <Compile Include="Models\Ministries.cs" />
     <Compile Include="Models\Pastor.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Startup.cs" />
@@ -306,6 +308,12 @@
     <Content Include="Views\Images\Admin.cshtml" />
     <Content Include="Views\Beliefs\Admin.cshtml" />
     <Content Include="Views\Images\Delete.cshtml" />
+    <Content Include="Views\Ministries\Create.cshtml" />
+    <Content Include="Views\Ministries\Delete.cshtml" />
+    <Content Include="Views\Ministries\Details.cshtml" />
+    <Content Include="Views\Ministries\Edit.cshtml" />
+    <Content Include="Views\Ministries\Admin.cshtml" />
+    <Content Include="Views\Ministries\Index.cshtml" />
     <None Include="Views\Pastors\Admin.cshtml" />
   </ItemGroup>
   <ItemGroup>
