@@ -36,9 +36,10 @@
                 </tr>
             </table>
         }
-    
+
     <script type="text/javascript">
     var events = [];
+    var days = [];
     var monthmonth;
     var month;
     var monthDay;
@@ -64,7 +65,7 @@
         document.write("</table>");
         //return month;
 
-        
+
     }
 
     function writeCalTitle(calendarDay) {
@@ -133,43 +134,27 @@
 
     }
 
-        @foreach (var item in Model)
+    @foreach (var item in Model)
         {
             <text>
-            var calDate = new Date();
-            month = calDate.getMonth() + 1;
-            monthmonth = @item.EventTime.ToString().Substring(0, 1);
-            day = @item.EventTime.ToString().Substring(0, 1);
-            if (month == 4)
-            {
-                events += @item.EventID;
-            }
-        document.write("inside foreach month " + month + "<br />");
-        document.write("day " + day + "<br />");
-            </text>
+    var calDate = new Date();
+    month = calDate.getMonth() + 1;
+    monthmonth = @item.EventTime.ToString().Substring(0, 1);
+    day = @item.EventTime.ToString("MM/dd/yyyy").Substring(3, 2);
+    if (month == monthmonth)
+    {
+        events += @item.EventID;
+        days += day;
+    }
+    </text>
         }
-        document.write("monthmonth " + monthmonth + "<br />");
-        document.write("events 0: " + events[0] + "<br />");
-        document.write("events 1: " + events[1] + "<br />");
-        document.write("events 2: " + events[2] + "<br />");
-        document.write("events 3: " + events[3] + "<br />");
-        document.write("events 4: " + events[4] + "<br />");
-        document.write("events 5: " + events[5] + "<br />");
-        document.write("events 6: " + events[6] + "<br />");
-        document.write("events 7: " + events[7] + "<br />");
-
-        for (var x = 0; x < events.length; x++)
-        {
-            document.write("events loop under foreach " + x + " " + events[x] + "<br />");
-        }
-        
-        document.write("length " + events.length + "<br />");
 
     function writeCalDays(calendarDay) {
 
         // Determine the starting day of the month
         var day = new Date(calendarDay.getFullYear(), calendarDay.getMonth(), 1);
         var weekDay = day.getDay();
+        var month = day.getMonth();
 
         // Write blank cells preceding the starting day
         document.write("<tr>");
@@ -191,10 +176,31 @@
             // Test if the day being written matches the calendar day
             if (i == highlightDay) {
                 document.write("<td class='calendar_dates' id='calendar_today'>" + i + "test text" + "</td>");
-            } else {
-                document.write("<td class='calendar_dates'>" + i + "test text" + "</td>");
             }
+            else
+            {
+                document.write("<td class='calendar_dates'><p class='date'>" + i + "</p><br />");
+                @foreach (var item in Model)
+                {
+                    <text>
+                if ((@item.EventTime.ToString("MM/dd/yyyy").Substring(0,2) == (month+1)) && (@item.EventTime.ToString("MM/dd/yyyy").Substring(3, 2) == i))
+                {
+                    document.write("This is an event" + "<br />");
+                }
+                </text>
+                }
+                
+                document.write("</td>");
+            }
+            var events = @Html.Raw(Json.Encode(Model));
 
+            for (var q = 0; q < events.length; q++)
+            {
+                if ((events[q].EventTime.ToString("MM/dd/yyyy").Substring(0,1) == (month+1)) && (events[q].EventTime.ToString("MM/dd/yyyy").Substring(3, 2) == i))
+                {
+                    document.write(events[q].EventName + "<br />");
+                }
+            }
             //document.write("<td class='calendar_dates'>" + i);
 
 
@@ -211,6 +217,5 @@
 
     }
     calendar();
-    document.write("month: " + month + "<br />");
     </script>
 </div>
