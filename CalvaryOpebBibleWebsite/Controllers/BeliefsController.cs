@@ -20,12 +20,13 @@ namespace CalvaryOpebBibleWebsite.Views
         {
             return View(db.Belief.ToList());
         }
-
+        [Authorize(Users = "jpoet1291@gmail.com,Parafin07!")]
         public ActionResult Admin()
         {
             return View(db.Belief.ToList());
         }
         // GET: Beliefs/Details/5
+        [Authorize(Users = "jpoet1291@gmail.com,Parafin07!")]
         public ActionResult Details(int? id)
         {
             if (id == null)
@@ -41,6 +42,7 @@ namespace CalvaryOpebBibleWebsite.Views
         }
 
         // GET: Beliefs/Create
+        [Authorize(Users = "jpoet1291@gmail.com,Parafin07!")]
         public ActionResult Create()
         {
             return View();
@@ -51,6 +53,7 @@ namespace CalvaryOpebBibleWebsite.Views
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Users = "jpoet1291@gmail.com,Parafin07!")]
         public ActionResult Create([Bind(Include = "BeliefID,BeliefTitle,BeliefDetails")] Belief belief)
         {
             if (ModelState.IsValid)
@@ -64,6 +67,7 @@ namespace CalvaryOpebBibleWebsite.Views
         }
 
         // GET: Beliefs/Edit/5
+        [Authorize(Users = "jpoet1291@gmail.com,Parafin07!")]
         public ActionResult Edit(int? id)
         {
             if (id == null)
@@ -83,6 +87,7 @@ namespace CalvaryOpebBibleWebsite.Views
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Users = "jpoet1291@gmail.com,Parafin07!")]
         public ActionResult Edit([Bind(Include = "BeliefID,BeliefTitle,BeliefDetails")] Belief belief)
         {
             if (ModelState.IsValid)
@@ -93,6 +98,7 @@ namespace CalvaryOpebBibleWebsite.Views
             }
             return View(belief);
         }
+        [Authorize(Users = "jpoet1291@gmail.com,Parafin07!")]
 
         // GET: Beliefs/Delete/5
         public ActionResult Delete(int? id)
@@ -108,7 +114,7 @@ namespace CalvaryOpebBibleWebsite.Views
             }
             return View(belief);
         }
-
+        [Authorize(Users = "jpoet1291@gmail.com,Parafin07!")]
         // POST: Beliefs/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]

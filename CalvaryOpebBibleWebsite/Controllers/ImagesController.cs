@@ -23,6 +23,7 @@ namespace CalvaryOpebBibleWebsite.Views
         {
             return View(db.Image.ToList());
         }
+         [Authorize(Users = "jpoet1291@gmail.com,Parafin07!")]
         public ActionResult Admin()
         {
             return View(db.Image.ToList());
@@ -43,12 +44,14 @@ namespace CalvaryOpebBibleWebsite.Views
         }
 
         // GET: Images/Create
+         [Authorize(Users = "jpoet1291@gmail.com,Parafin07!")]
         public ActionResult Create()
         {
             return View();
         }
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Users = "jpoet1291@gmail.com,Parafin07!")]
         public ActionResult Create(Image img, HttpPostedFileBase file)
         {
             if (ModelState.IsValid)
@@ -66,6 +69,7 @@ namespace CalvaryOpebBibleWebsite.Views
             return View(img);
         }
         // GET: Images/Edit/5
+         [Authorize(Users = "jpoet1291@gmail.com,Parafin07!")]
         public ActionResult Edit(int? id)
         {
             if (id == null)
@@ -85,6 +89,7 @@ namespace CalvaryOpebBibleWebsite.Views
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Users = "jpoet1291@gmail.com,Parafin07!")]
         public ActionResult Edit([Bind(Include = "ID,ImagePath")] Image image)
         {
             if (ModelState.IsValid)
@@ -97,6 +102,7 @@ namespace CalvaryOpebBibleWebsite.Views
         }
 
         // GET: Images/Delete/5
+         [Authorize(Users = "jpoet1291@gmail.com,Parafin07!")]
         public ActionResult Delete(int? id)
         {
             if (id == null)
@@ -114,6 +120,7 @@ namespace CalvaryOpebBibleWebsite.Views
         // POST: Images/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
+        [Authorize(Users = "jpoet1291@gmail.com,Parafin07!")]
         public ActionResult DeleteConfirmed(int id)
         {
             Image image = db.Image.Find(id);

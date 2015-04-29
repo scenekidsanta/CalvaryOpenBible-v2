@@ -20,13 +20,14 @@ namespace CalvaryOpebBibleWebsite.Views
         {
             return View(db.Pastor.ToList());
         }
-
+         [Authorize(Users = "jpoet1291@gmail.com,Parafin07!")]
         public ActionResult Admin()
         {
             return View(db.Pastor.ToList());
         }
 
         // GET: Pastors/Details/5
+         [Authorize(Users = "jpoet1291@gmail.com,Parafin07!")]
         public ActionResult Details(int? id)
         {
             if (id == null)
@@ -42,10 +43,12 @@ namespace CalvaryOpebBibleWebsite.Views
         }
 
         // GET: Pastors/Create
+         [Authorize(Users = "jpoet1291@gmail.com,Parafin07!")]
         public ActionResult Create()
         {
             return View();
         }
+         [Authorize(Users = "jpoet1291@gmail.com,Parafin07!")]
         // POST: Pastors/Create
         // To protect from overposting attacks, please enable the specific properties you want to bind to, for 
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
@@ -70,6 +73,7 @@ namespace CalvaryOpebBibleWebsite.Views
         }
 
         // GET: Pastors/Edit/5
+         [Authorize(Users = "jpoet1291@gmail.com,Parafin07!")]
         public ActionResult Edit(int? id)
         {
             if (id == null)
@@ -89,6 +93,7 @@ namespace CalvaryOpebBibleWebsite.Views
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Users = "jpoet1291@gmail.com,Parafin07!")]
         public ActionResult Edit([Bind(Include = "PastorID,PastorName,PastorImagePath,Title,Details")] Pastor pastor, HttpPostedFileBase file)
         {
             
@@ -105,6 +110,7 @@ namespace CalvaryOpebBibleWebsite.Views
         }
 
         // GET: Pastors/Delete/5
+         [Authorize(Users = "jpoet1291@gmail.com,Parafin07!")]
         public ActionResult Delete(int? id)
         {
             if (id == null)
@@ -122,6 +128,7 @@ namespace CalvaryOpebBibleWebsite.Views
         // POST: Pastors/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
+        [Authorize(Users = "jpoet1291@gmail.com,Parafin07!")]
         public ActionResult DeleteConfirmed(int id)
         {
             Pastor pastor = db.Pastor.Find(id);
