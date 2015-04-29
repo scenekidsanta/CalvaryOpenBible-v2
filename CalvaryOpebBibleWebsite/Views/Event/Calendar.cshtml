@@ -139,7 +139,7 @@
             var calDate = new Date();
             month = calDate.getMonth() + 1;
             monthmonth = @item.EventTime.ToString().Substring(0, 1);
-            //day = @item.EventTime.ToString().Substring(0, 2);
+            day = @item.EventTime.ToString().Substring(0, 1);
             if (month == 4)
             {
                 events += @item.EventID;
