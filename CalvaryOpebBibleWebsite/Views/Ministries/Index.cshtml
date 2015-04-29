@@ -1,0 +1,36 @@
+﻿@model IEnumerable<CalvaryOpebBibleWebsite.Models.Ministries>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="jumbotron">
+    <h2>Ministries</h2>
+
+    <table class="table">
+        <tr>
+            <th>
+                Leader
+            </th>
+            <th>
+                Position
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MinistriesLeader)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MinistriesPosition)
+                </td>
+
+            </tr>
+        }
+
+    </table>
+</div>
